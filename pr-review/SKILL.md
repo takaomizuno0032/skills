@@ -4,10 +4,10 @@ version: 1.0.0
 description: プルリクエストのレビュー時に確認すべき項目
 triggers:
   - PR
-    - レビュー
-      - review
-        - pull request
-        ---
+  - レビュー
+  - review
+  - pull request
+---
 
 # PRレビューチェックリスト
 
