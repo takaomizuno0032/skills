@@ -19,6 +19,7 @@ git clone git@github.com:takaomizuno0032/skills.git ~/.claude/skills
 | Skill | Description | Triggers |
 |-------|-------------|----------|
 | [pr-review](./pr-review/SKILL.md) | PR review checklist for code quality, security, testing, and documentation | `PR`, `review`, `pull request` |
+| [pair-programming](./pair-programming/SKILL.md) | 対話型ペアプログラミング。実装前に複数案を提案し、議論を経て段階的に実装する | `pair`, `ペアプロ`, `相談`, `discuss` |
 
 ## Usage
 
